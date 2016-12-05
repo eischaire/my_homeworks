@@ -6,3 +6,4 @@ for line in a:
     words += len(line)
 aver = words/quant
 print(aver)
+f.close()
